@@ -1,2 +1,3 @@
-# vegalicious-recommendation-system
-Recommendation System utilizing Tensorflow Embedding layers to find similarity between each recipes based on its title
+# Vegalicious Recommendation System
+### by. Abidjanna Zulfa Hamdika
+Recommendation System utilizing Tensorflow Embedding layers to find similarity between each <b>VEGAN</b> recipes based on its title
